@@ -1,0 +1,152 @@
+{
+  "productos": [
+    {
+      "categoria_slug": "home-studio",
+      "nombre": "Interfaz de Audio 2x2",
+      "descripcion": "Interfaz USB de 2 entradas y 2 salidas. Preamplificadores de calidad estudio, phantom power 48v y monitoreo directo sin latencia. Compatible con ASIO4ALL.",
+      "descripcion_modal": "Interfaz USB de 2 entradas y 2 salidas. Preamplificadores de calidad estudio, phantom power 48v y monitoreo directo sin latencia. Compatible con ASIO4ALL.",
+      "precio": "120.00",
+      "imagen": "Assets/Audio/scarlet.jpg",
+      "alt": "Interfaz de Audio 2x2"
+    },
+    {
+      "categoria_slug": "home-studio",
+      "nombre": "Interfaz De Audio Pre Amp. 2 Canales",
+      "descripcion": "La interfaz de audio GIP-802 de Gemini ofrece un rendimiento profesional en un diseño compacto y accesible.",
+      "descripcion_modal": "La interfaz de audio GIP-802 de Gemini ofrece un rendimiento profesional en un diseño compacto y accesible. Con resolución audiophile de 48 kHz, es ideal para músicos, productores y creadores que buscan una calidad de grabación impecable.",
+      "precio": "220.00",
+      "imagen": "Assets/Audio/Gemini.jpg",
+      "alt": "Interfaz de Audio Pre Amp. 2 Canales"
+    },
+    {
+      "categoria_slug": "home-studio",
+      "nombre": "Interfaz de audio Arturia Minifuse 4",
+      "descripcion": "MiniFuse 4 Champagne es una interfaz de audio y MIDI de 4 entradas/4 salidas.",
+      "descripcion_modal": "Capture grabaciones nítidas, perfeccione con software creativo de nivel profesional y haga que su sonido salga a la luz.",
+      "precio": "370.00",
+      "imagen": "Assets/Audio/Arturia.jpg",
+      "alt": "Interfaz de audio Arturia Minifuse 4"
+    },
+    {
+      "categoria_slug": "home-studio",
+      "nombre": "Interfaz de audio Arturia MiniFuse 2 OTG",
+      "descripcion": "Perfecto para el productor que transmite en vivo. MiniFuse 2 OTG te permite enviar el audio de tu computadora directamente a tu teléfono o tableta conectados.",
+      "descripcion_modal": "Ahora puedes compartir fácilmente tu sesión DAW, presentar un tutorial de producción o transmitir una sesión de DJ a tu público en línea con un sonido impecable con calidad de estudio.",
+      "precio": "360.00",
+      "imagen": "Assets/Audio/MiniFuse.jpg",
+      "alt": "Interfaz de audio Arturia MiniFuse 2 OTG"
+    },
+    {
+      "categoria_slug": "les-paul-y-similares",
+      "nombre": "Les Paul Studio White",
+      "descripcion": "Guitarra Les Paul Studio en color blanco con acabado brillante, cuerpo de caoba y cápsulas humbucker de alta ganancia. Ideal para rock y metal.",
+      "descripcion_modal": "Guitarra Les Paul Studio en color blanco con acabado brillante, cuerpo de caoba y cápsulas humbucker de alta ganancia. Ideal para rock y metal.",
+      "precio": "699.99",
+      "imagen": "Assets/Guitarras/LesPaulWhite.webp",
+      "alt": "Les Paul Studio White"
+    },
+    {
+      "categoria_slug": "les-paul-y-similares",
+      "nombre": "Es 335 CherryRed",
+      "descripcion": "Guitarra semi-hollow body perfecta para jazz, blues e indie. Bloque central que reduce el acople y ofrece un sustain prolongado.",
+      "descripcion_modal": "Guitarra semi-hollow body perfecta para jazz, blues e indie. Bloque central que reduce el acople y ofrece un sustain prolongado.",
+      "precio": "499.99",
+      "imagen": "Assets/Guitarras/Es335.webp",
+      "alt": "Es 335 CherryRed"
+    },
+    {
+      "categoria_slug": "les-paul-y-similares",
+      "nombre": "SG CherryRed",
+      "descripcion": "Cuerpo ligero de caoba con doble cutaway para un acceso total a los trastes altos. Sonido agresivo ideal para hard rock.",
+      "descripcion_modal": "Cuerpo ligero de caoba con doble cutaway para un acceso total a los trastes altos. Sonido agresivo ideal para hard rock.",
+      "precio": "599.99",
+      "imagen": "Assets/Guitarras/SG.jpg",
+      "alt": "SG CherryRed"
+    },
+    {
+      "categoria_slug": "les-paul-y-similares",
+      "nombre": "Les Paul Gibson 60s",
+      "descripcion": "Vuelve a sus orígenes, con el diseño clásico que la hizo relevante e idolatrada durante generaciones de estilos y músicos.",
+      "descripcion_modal": "La Gibson Les Paul Standard 60s, rinde tributo a la época dorada de Gibson con la autenticidad que esperas de una Les Paul Standard.",
+      "precio": "1099.99",
+      "imagen": "Assets/Guitarras/LesPaulGibson.jpg",
+      "alt": "Les Paul Gibson 60s",
+      "destacado": true
+    },
+    {
+      "categoria_slug": "stratocaster",
+      "nombre": "Stratocaster Relic",
+      "descripcion": "Acabado desgastado de fábrica, configuración HSS.",
+      "descripcion_modal": "Acabado desgastado de fábrica (Relic). Configuración Humbucker-Single-Single para máxima versatilidad sonora. Trastes jumbo.",
+      "precio": "899.99",
+      "imagen": "Assets/Guitarras/StratoRelic.webp",
+      "alt": "Stratocaster Relic"
+    },
+    {
+      "categoria_slug": "stratocaster",
+      "nombre": "Stratocaster Maple",
+      "descripcion": "Fabricado en madera de aliso con acabado de poliéster brillante.",
+      "descripcion_modal": "Cuerpo de aliso premium, cuello y diapasón de arce suave, y una configuración de pastillas flexible.",
+      "precio": "799.99",
+      "imagen": "Assets/Guitarras/StratoMaple.webp",
+      "alt": "Stratocaster Maple",
+      "destacado": true
+    },
+    {
+      "categoria_slug": "stratocaster",
+      "nombre": "Stratocaster Rosewood",
+      "descripcion": "Inspirada en lo vintage, configuración HSS.",
+      "descripcion_modal": "Combina el sonido icónico de la Strat y una vibra inspirada en lo vintage con un instrumento moderno y versátil.",
+      "precio": "599.99",
+      "imagen": "Assets/Guitarras/StratrRosewood.webp",
+      "alt": "Stratocaster Rosewood",
+      "destacado": true
+    },
+    {
+      "categoria_slug": "stratocaster",
+      "nombre": "Stratocaster Aqua Marine Metallic",
+      "descripcion": "Cuerpo de doble rebaje con contornos ergonómicos.",
+      "descripcion_modal": "Ofrece una capacidad de ejecución cómoda y el sonido inspirador que convirtieron a Fender en un ícono del rock & roll.",
+      "precio": "799.99",
+      "imagen": "Assets/Guitarras/StratoAquaMarine.webp",
+      "alt": "Stratocaster Aqua Marine",
+      "destacado": true
+    },
+    {
+      "categoria_slug": "telecaster",
+      "nombre": "Telecaster Black",
+      "descripcion": "Sonido brillante y percusivo.",
+      "descripcion_modal": "Mástil de arce y cápsulas single coil.",
+      "precio": "499.99",
+      "imagen": "Assets/Guitarras/TelecasterNormal.jpg",
+      "alt": "Telecaster Black"
+    },
+    {
+      "categoria_slug": "telecaster",
+      "nombre": "Telecaster Butterscotch Blonde",
+      "descripcion": "Una iteración premium del primer producto Fender que se lanzó al mercado.",
+      "descripcion_modal": "Construida con componentes meticulosamente seleccionados, como las pastillas de bobina simple vintage ’51.",
+      "precio": "899.99",
+      "imagen": "Assets/Guitarras/TeleCasterBlonde.jpg",
+      "alt": "Telecaster Butterscotch Blonde"
+    },
+    {
+      "categoria_slug": "telecaster",
+      "nombre": "Telecaster British Racing Green",
+      "descripcion": "Audaz, innovadora y resistente, la Player Telecaster es pura Fender.",
+      "descripcion_modal": "Lo suficientemente versátil para manejar cualquier cosa que puedas crear y lo suficientemente resistente para sobrevivir a cualquier concierto.",
+      "precio": "2499.99",
+      "imagen": "Assets/Guitarras/TelecasterBRG.webp",
+      "alt": "Telecaster British Racing Green"
+    },
+    {
+      "categoria_slug": "telecaster",
+      "nombre": "Telecaster Squier",
+      "descripcion": "Es una opción perfecta para una primera guitarra sin importar quién seas o qué estilo de música quieras aprender.",
+      "descripcion_modal": "Mástil de arce y cápsulas single coil.",
+      "precio": "699.99",
+      "imagen": "Assets/Guitarras/TeleCasterSquier.webp",
+      "alt": "Telecaster Squier"
+    }
+  ]
+}

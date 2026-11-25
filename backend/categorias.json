@@ -1,0 +1,33 @@
+{
+    "categorias": [
+        {
+            "nombre": "Stratocaster",
+            "href": "shop/categoria/productos.php?slug=stratocaster",
+            "imageUrl": "Assets/Guitarras/StratoRelic.webp",
+            "slug": "stratocaster",
+            "titulo": "Modelos Stratocaster"
+        },
+        {
+            "nombre": "Telecaster",
+            "href": "shop/categoria/productos.php?slug=telecaster",
+            "imageUrl": "Assets/Guitarras/TeleDeluxe.webp",
+            "slug": "telecaster",
+            "titulo": "Modelos Telecaster"
+        },
+        {
+            "nombre": "Les Paul y Similares",
+            "href": "shop/categoria/productos.php?slug=les-paul-y-similares",
+            "imageUrl": "Assets/Guitarras/LesPaulWhite.webp",
+            "slug": "les-paul-y-similares",
+            "titulo": "Modelos Les Paul, SG y ES"
+        },
+        {
+            "nombre": "Home Studio",
+            "href": "shop/categoria/productos.php?slug=home-studio",
+            "imageUrl": "Assets/Audio/scarlet.jpg",
+            "slug": "home-studio",
+            "titulo": "Equipamiento Home Studio"
+        }
+        
+    ]
+}
